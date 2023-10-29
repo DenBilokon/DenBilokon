@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7C500&pause=2000&weight=700&lines=Hello!+I'm+Denis+Bilokon,+Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7C500&pause=2000&weight=700&lines=Hello!+I'm+Denys+Bilokon,+Python+Developer)](https://git.io/typing-svg)
 
 ### ⚡ Technologies:
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=plastic&logo=Windows%2011&logoColor=white)
